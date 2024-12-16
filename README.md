@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0)
 
 
-# Créer et requeter une base de donnée immobilières
+# Créer et requeter une base de données immobilières
 Dans ce projet, je me trouve dans la peau d'un Data Analyst chez Laplace Immo, un réseau national d’agences immobilières.
 
 Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne le projet "DATAImmo". La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
