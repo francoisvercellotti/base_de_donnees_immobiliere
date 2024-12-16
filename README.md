@@ -14,3 +14,14 @@ Dans ce cadre, cette dernière m'a confié la modification de la base de donnée
 -Effectuer des requêtes SQL pour répondre à une problématique métier en respect du RGPD
 
 -Gérer une base de données en établissant des requêtes et en respect du RGPD
+
+![image](https://github.com/user-attachments/assets/10e39e09-22f6-4770-8f6a-22a1067b4a5d)
+
+![image](https://github.com/user-attachments/assets/0492dce1-5b16-4994-b09e-f5506c15edb5)
+
+exemple de requête
+
+![image](https://github.com/user-attachments/assets/fb047b70-3319-40f0-a639-70374abf4861)
+
+
+
