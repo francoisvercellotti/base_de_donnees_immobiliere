@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0)
+
+
 # Description
 Dans ce projet, je me trouve dans la peau d'un Data Analyst chez Laplace Immo, un réseau national d’agences immobilières.
 
