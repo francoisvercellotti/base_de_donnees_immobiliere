@@ -8,7 +8,7 @@ Le directeur général est sensible depuis quelque temps à l’importance des d
 
 Dans ce cadre, cette dernière m'a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Charge à moi d'utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 
-# Compétences mobilisées
+# Compétences acquises
 -Créer une base de données en respect des normes réglementaires et des besoins clients
 
 -Effectuer des requêtes SQL pour répondre à une problématique métier en respect du RGPD
